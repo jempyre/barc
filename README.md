@@ -25,7 +25,6 @@ Repo for BARC forms
                 <option value="Panabu Rammosas Khadr, II">
                   Panabu Rammosas Khadr, II
             </select>
-            <input type="submit"/>
             <!--<span class="input-text">
               <label for="client_name">Client:</label><input type="text" name="client_name" value="Joe Snuffy">
             </span>-->
@@ -33,6 +32,7 @@ Repo for BARC forms
               <label for="client_id">Client ID:</label>
               <input type="text" name="client_id" placeholder="Client ID" value="Snuf8623">
             </span>
+                      <input type="submit" title="Enter"/>
       </form>
   </article>
   <article>
@@ -41,8 +41,7 @@ Repo for BARC forms
               <label for="allergy">Allergies:</label><input type="text" name="allergy" value=""><br/>
             </span>
           </div>
-          <hr>
-          <div class="container">
+    <div class="container">
             <span class="input-text">
               <label for="med_name">Medication:</label><input class="highlight" type="text" name="med_name" value="">
             </span>
@@ -60,9 +59,12 @@ Repo for BARC forms
               <label for="med_amt_recd">Amount Recieved:</label><input type="text" name="med_amt_recd" value=""><br/>
             </span>
           </div>
+                <input type="submit"/>
+
           <hr>
     </form>
   </article>
+  <article>
       <table class="card">
         <thead>
           <th class="left">Date</th>
@@ -103,8 +105,7 @@ Repo for BARC forms
           </tr>
         </tbody>
       </table>
-    </form>
-    </article>
+  </article>
   </section>
 
 [[medadmin]]
