@@ -17,12 +17,8 @@ Repo for BARC forms
                 <option value="Joixwa Fox-Petyr">Joixwa Fox-Petyr</option>
                 <option value="Doctor Jenn Fazzio, MD">Doctor Jenn Fazzio, MD</option>
                 <option value="Panabu Rammosas Khadr, II">Panabu Rammosas Khadr, II<select name="cars">
-  <option value="volvo">Volvo</option>
-  <option value="saab">Saab</option>
-  <option value="fiat">Fiat</option>
-  <option value="audi">Audi</option>
-</select> /option>
-             </select> 
+                  </select>
+                  <input type="submit"/>
             <!--<span class="input-text">
               <label for="client_name">Client:</label><input type="text" name="client_name" value="Joe Snuffy">
             </span>-->
