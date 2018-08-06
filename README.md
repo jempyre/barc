@@ -33,7 +33,10 @@ Repo for BARC forms
               <label for="client_id">Client ID:</label>
               <input type="text" name="client_id" placeholder="Client ID" value="Snuf8623">
             </span>
-          <div class="container">
+      </form>
+  </article>
+  <article>
+    <form id="client_prescription">
             <span class="input-text">
               <label for="allergy">Allergies:</label><input type="text" name="allergy" value=""><br/>
             </span>
@@ -58,6 +61,8 @@ Repo for BARC forms
             </span>
           </div>
           <hr>
+    </form>
+  </article>
       <table class="card">
         <thead>
           <th class="left">Date</th>
