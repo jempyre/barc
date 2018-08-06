@@ -5,6 +5,8 @@ Repo for BARC forms
 ## Forms
 ### Medicine Administration
 
+[[medadmin]]
+
 ### New Client
 
 ### Pass
