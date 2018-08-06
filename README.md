@@ -8,9 +8,24 @@ Repo for BARC forms
     <article id="medadmin">
         <form class="barc barc-form" action="index.html" method="post">
           <div class="container">
-            <span class="input-text">
+             <select name="client_name">
+                <option value="Abbi R. Hammur, II">Abbi R. Hammur, II</option>
+                <option value="Vaclav Sammuel Michael Havel, V">Vaclav Sammuel Michael Havel, V</option>
+                <option value="Carine Christine Monique Anquetil-Havel-Bertot">Carine Christine Monique Anquetil-Havel-Bertot</option>
+                <option value="Norman Christophern">Norman Christophern</option>
+                <option value="Erduarto Geoffreys Maisonno">Erduarto Geoffreys Maisonno</option>
+                <option value="Joixwa Fox-Petyr">Joixwa Fox-Petyr</option>
+                <option value="Doctor Jenn Fazzio, MD">Doctor Jenn Fazzio, MD</option>
+                <option value="Panabu Rammosas Khadr, II">Panabu Rammosas Khadr, II<select name="cars">
+  <option value="volvo">Volvo</option>
+  <option value="saab">Saab</option>
+  <option value="fiat">Fiat</option>
+  <option value="audi">Audi</option>
+</select> /option>
+             </select> 
+            <!--<span class="input-text">
               <label for="client_name">Client:</label><input type="text" name="client_name" value="Joe Snuffy">
-            </span>
+            </span>-->
             <span class="input-text">
               <label for="client_id">Client ID:</label>
               <input type="text" name="client_id" placeholder="Client ID" value="Snuf8623">
