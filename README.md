@@ -4,6 +4,9 @@ Repo for BARC forms
 ---
 ## Forms
 <section id="forms">
+
+      {{ content }}
+
   <h3>Medicine Administration</h3>
     <article id="medadmin">
         <form class="barc barc-form" action="index.html" method="post">

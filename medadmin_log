@@ -1,0 +1,43 @@
+<article>
+<table class="card">
+        <thead>
+          <th class="left">Date</th>
+          <th>Time</th>
+          <th>Amount<br>Admin.</th>
+          <th>Amount<br>On-Hand</th>
+          <th>Client<br>Signature</th>
+          <th class="right">Staff<br>Signature</th>
+        </thead>
+        <tbody>
+          <tr class="input">
+            <td>
+              <input type="date" name="" value="">
+            </td>
+            <td>
+              <input type="time" name="" value="">
+            </td>
+            <td>
+              <input type="number" name="" value="">
+            </td>
+            <td>
+              <input type="number" name="" value="">
+            </td>
+            <td>
+              <input type="text" name="" value="">
+            </td>
+            <td>
+              <input type="text" name="" value="">
+            </td>
+          </tr>
+          <tr>
+            <td>04/25/2018</td>
+            <td>21:32</td>
+            <td>1</td>
+            <td>23</td>
+            <td>Joe Snuffy|</td>
+            <td>John Doe|</td>
+          </tr>
+        </tbody>
+      </table>
+    </form>
+    </article>
